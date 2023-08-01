@@ -13,3 +13,5 @@ Run the program with the following command:
 ```
 python3 app.py
 ```
+
+Original repository can be found [here](https://github.com/yusufpraditya/face-recognition-app)
