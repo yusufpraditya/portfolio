@@ -7,6 +7,6 @@ This GitHub repository serves as a showcase of my journey, skills, and projects 
 Here's a list of projects I've made so far:
 
 1. [Face recognition application](https://github.com/yusufpraditya/portfolio/tree/main/face-recognition-app)
-2. Automatic door lock using face recognition
+2. [Automatic door lock using face recognition](https://github.com/yusufpraditya/portfolio/tree/main/automatic-door-lock)
 3. KKCTBN program
-4. Kibo-RPC program
+4. [Kibo-RPC program](test)
