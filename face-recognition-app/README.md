@@ -1,6 +1,6 @@
 ## Install
 
-Install library yang dibutuhkan dengan command berikut:
+Install the required libraries with the following ocommand:
 
 ```
 python3 -m pip install -r requirements.txt
@@ -8,7 +8,7 @@ python3 -m pip install -r requirements.txt
 
 ## Run
 
-Jalankan program dengan command berikut:
+Run the program with the following command:
 
 ```
 python3 app.py
