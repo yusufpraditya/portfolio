@@ -1,6 +1,6 @@
 ## Install
 
-Install the required libraries with the following ocommand:
+Install the required libraries with the following command:
 
 ```
 python3 -m pip install -r requirements.txt
