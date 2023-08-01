@@ -2,7 +2,7 @@
 
 Welcome to my Portfolio repository! 🚀
 
-This GitHub repository serves as a showcase of my journey, skills, and projects as a passionate individual in the world of technology.
+This repository serves as a showcase of my journey, skills, and projects as a passionate individual in the world of technology.
 
 Here's a list of projects I've made so far:
 
